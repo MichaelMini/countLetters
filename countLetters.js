@@ -22,5 +22,5 @@ function countLetters(input) {
 
 var result = countLetters(aString);
 
-console.log("after function letterCounts :", result);
+console.log(result);
 
